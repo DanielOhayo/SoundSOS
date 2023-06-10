@@ -1,0 +1,430 @@
+{
+   "checksum": "7bc593c7ae37e03cfb5043d876e19d0c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13210196965921938",
+            "date_last_used": "0",
+            "guid": "9e0c19f0-7bd3-49ad-8af1-dc1f021320e7",
+            "id": "24",
+            "name": "מודל בראודה",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://moodle.braude.ac.il/"
+         }, {
+            "date_added": "13210197318710481",
+            "date_last_used": "0",
+            "guid": "c00d6583-e837-4e88-9bf7-ab0ade00c9ac",
+            "id": "25",
+            "name": "תחנת מידע לסטודנט המכללה האקדמית להנדסה אורט בראודה (ע''ר) מסך כניסה ראשי",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://info.braude.ac.il/yedion/fireflyweb.aspx"
+         }, {
+            "date_added": "13210267613940293",
+            "date_last_used": "0",
+            "guid": "612bd5ca-b6a9-4860-8d2e-e93a483b4a93",
+            "id": "26",
+            "name": "(90) פייסבוק",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13217170421234443",
+            "date_last_used": "0",
+            "guid": "f2f0f90f-adca-459b-bda9-dacf8b37e35c",
+            "id": "27",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/?hl=iw&gl=IL"
+         }, {
+            "date_added": "13219422459603196",
+            "date_last_used": "0",
+            "guid": "8b56bfc5-df8f-49ab-be92-d87ba75b0788",
+            "id": "28",
+            "name": "הקורסים שלי | GOOL",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.gool.co.il/MyCourses"
+         }, {
+            "date_added": "13219701047808586",
+            "date_last_used": "0",
+            "guid": "8c31f25a-2f72-49ac-9b01-9e22473e3dd8",
+            "id": "29",
+            "name": "Binary Fractions and Floating Point - Binary Tutorial",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ryanstutorials.net/binary-tutorial/binary-floating-point.php"
+         }, {
+            "date_added": "13222302697037956",
+            "date_last_used": "0",
+            "guid": "d3db0483-f63e-4ab9-ba80-f7d6c8d06a91",
+            "id": "30",
+            "name": "Integral Calculator • With Steps!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.integral-calculator.com/"
+         }, {
+            "date_added": "13228345255743333",
+            "date_last_used": "0",
+            "guid": "47d152e9-6cac-4caa-ae9e-39bfe94e53ff",
+            "id": "31",
+            "name": "‪limodim‬‏ - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1JlCq3M6ay_dcndvrWTHfWTN_RKTEiwjM"
+         }, {
+            "date_added": "13228430483472238",
+            "date_last_used": "0",
+            "guid": "c4e79c40-33cb-4bf4-9b1d-7b70691f6fe9",
+            "id": "32",
+            "name": "המכללה האקדמית אורט בראודה | הנדסת תוכנה | חדוא 2 מ | נגזרות חלקיות דיפרנציאבליות | GOOL",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.gool.co.il/%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%90%D7%95%D7%A8%D7%98-%D7%91%D7%A8%D7%90%D7%95%D7%93%D7%94/%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%AA%D7%95%D7%9B%D7%A0%D7%94/%D7%97%D7%93%D7%95%D7%90-2-%D7%9E/%D7%A0%D7%92%D7%96%D7%A8%D7%95%D7%AA-%D7%97%D7%9C%D7%A7%D7%99%D7%95%D7%AA-%D7%93%D7%99%D7%A4%D7%A8%D7%A0%D7%A6%D7%99%D7%90%D7%91%D7%9C%D7%99%D7%95%D7%AA#87343"
+         }, {
+            "date_added": "13228660535305603",
+            "date_last_used": "0",
+            "guid": "b63f1c45-d250-45f8-9772-5b02d1ba407b",
+            "id": "33",
+            "name": "מתיטקה",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www2.mta.ac.il/~michalp/discretemath.htm"
+         }, {
+            "date_added": "13228865156652308",
+            "date_last_used": "0",
+            "guid": "d2b71ef1-4f16-4023-9e8e-ac7d74263e28",
+            "id": "34",
+            "name": "3D Graph using Parametric Lines",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.desmos.com/calculator/nqom2ih05g"
+         }, {
+            "date_added": "13229380737673921",
+            "date_last_used": "0",
+            "guid": "2e51892b-b934-4fd9-b7bb-6be6126e0707",
+            "id": "35",
+            "name": "סדנא במתמטיקה דיסקרטית בראודה",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/groups/2622248171334722/"
+         }, {
+            "date_added": "13230908522153895",
+            "date_last_used": "0",
+            "guid": "82f9af0f-05a3-46c9-beee-53538772993a",
+            "id": "36",
+            "name": "מתמטיקה דיסקרטית - אברהם גינזבורג, האוניברסיטה הפתוחה - Google ספרים",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://books.google.co.il/books?id=7-CWFfyt160C&pg=PA93&lpg=PA93&dq=%D7%94%D7%90%D7%99%D7%91%D7%A8+%D7%94%D7%A7%D7%98%D7%9F+%D7%91%D7%99%D7%95%D7%AA%D7%A8+%D7%93%D7%99%D7%A1%D7%A7%D7%A8%D7%98%D7%99%D7%AA&source=bl&ots=EL76Numfi8&sig=ACfU3U26I1O_HV0rsZuq-FNygKyg9SYf-w&hl=iw&sa=X&ved=2ahUKEwjYqOy2qtvoAhVCxKYKHRGKBYcQ6AEwAXoECAwQLA#v=onepage&q=%D7%94%D7%90%D7%99%D7%91%D7%A8%20%D7%94%D7%A7%D7%98%D7%9F%20%D7%91%D7%99%D7%95%D7%AA%D7%A8%20%D7%93%D7%99%D7%A1%D7%A7%D7%A8%D7%98%D7%99%D7%AA&f=false"
+         }, {
+            "date_added": "13238272343180882",
+            "date_last_used": "0",
+            "guid": "e8e45d46-3b7e-4f22-96ba-afa766832e71",
+            "id": "37",
+            "name": "מרתון 2",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mega.nz/file/lpxHUA4I#vvMohFD3aF8LHSW_XQ60R-RUmJIaS1lrktmg4PWkZj4"
+         }, {
+            "date_added": "13238272380023495",
+            "date_last_used": "0",
+            "guid": "809e7483-eefe-41c1-bb69-32f5adc7d34f",
+            "id": "38",
+            "name": "מרתון 1",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mega.nz/file/M4gRga7S#l_3oVsEgqCEyWmjQEponpVliZdhPD_ltQROc5sR1Y-s"
+         }, {
+            "date_added": "13238283443853608",
+            "date_last_used": "0",
+            "guid": "360edf46-cd87-4daa-9c35-94ffd4019ae8",
+            "id": "39",
+            "name": "(72) 61743 - מתמטיקה דיסקרטית 1 - סדנאות סמסטר אביב 2020 - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLNd0njPGmua3KKTz-v6-3Dck7ZHfIL2Nv"
+         }, {
+            "date_added": "13238283458958309",
+            "date_last_used": "0",
+            "guid": "992df740-eb5c-4851-ae9b-dd77ea3141ab",
+            "id": "40",
+            "name": "(72) 61743 - מתמטיקה דיסקרטית 1 - מרתונים - אביב 2020 - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLNd0njPGmua18FEbLT9vmj_Ld2gTrMIMm"
+         }, {
+            "date_added": "13238448638300315",
+            "date_last_used": "0",
+            "guid": "4b9e604d-8aa5-4a4a-8b47-0b7be9093e1d",
+            "id": "41",
+            "name": "מרתון 3",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mega.nz/file/wo5D0QzD#ccKKXjG1-RSucG1siM-Is2RS_4dqr-w4C64eqt708qs"
+         }, {
+            "date_added": "13238626723350445",
+            "date_last_used": "0",
+            "guid": "116e42a5-9563-465a-9803-525789520949",
+            "id": "42",
+            "name": "מרתון 4",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mega.nz/file/kgYWAAoR#Tt3HKOBlPaHFpWtxpKVXgE4Jgzt5QxDJPAt48PpFSig"
+         }, {
+            "date_added": "13239978329022714",
+            "date_last_used": "0",
+            "guid": "806ad68f-3b66-4d4f-827b-1a6e7e374b27",
+            "id": "43",
+            "name": "חדו\"א 2מ' – Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/102cl1ZXspQkfa9-pyTAPlvuHW77qpRf2"
+         }, {
+            "children": [ {
+               "date_added": "13210179061934080",
+               "date_last_used": "0",
+               "guid": "720a1821-3a6f-4836-85f9-eb2ec039de9d",
+               "id": "45",
+               "name": "ASUS Homepage",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.asus.com/"
+            }, {
+               "date_added": "13210179061944120",
+               "date_last_used": "0",
+               "guid": "06886fc7-94cd-4a16-96ca-2f3bc2d8984b",
+               "id": "46",
+               "name": "ASUS Member",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://account.asus.com/"
+            } ],
+            "date_added": "13326046232158750",
+            "date_last_used": "0",
+            "date_modified": "13326046236265866",
+            "guid": "70c79f55-5755-4e83-b346-de9382ef7660",
+            "id": "44",
+            "name": "ASUS E-Service",
+            "source": "import_fre",
+            "type": "folder"
+         }, {
+            "date_added": "13295477645789341",
+            "date_last_used": "0",
+            "guid": "a625785d-9a4d-4198-a509-3c3b4afc538e",
+            "id": "47",
+            "name": "GitHub - yqyao/FCOS_PLUS: Some improvements (center sample) about FCOS (FCOS: Fully Convolutional One-Stage Object Detection).",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/yqyao/FCOS_PLUS"
+         } ],
+         "date_added": "13326046228142609",
+         "date_last_used": "0",
+         "date_modified": "13295477645789341",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13210179214588199",
+                  "date_last_used": "0",
+                  "guid": "d3ec5fa9-a717-4886-ac15-e7a2749bd836",
+                  "id": "11",
+                  "name": "go.microsoft.com",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://go.microsoft.com/fwlink/?LinkId=525773"
+               } ],
+               "date_added": "13243941461701793",
+               "date_last_used": "0",
+               "date_modified": "13243941461701793",
+               "guid": "578702da-f65f-4c62-a85b-ac4c7edf4bc9",
+               "id": "10",
+               "name": "קבוצה 1",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13221426443720162",
+                  "date_last_used": "0",
+                  "guid": "33e728fa-cde2-4b95-b560-b92eb226decb",
+                  "id": "13",
+                  "name": "פרק4.pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/ohayo/Desktop/%D7%A1%D7%9E%D7%A1%D7%98%D7%A8%20%D7%90/%D7%97%D7%93%D7%95%D7%901/%D7%97%D7%95%D7%91%D7%A8%D7%AA%20%D7%AA%D7%A8%D7%92%D7%99%D7%9C%D7%99%D7%9D%20%D7%A9%D7%9C%20%D7%93%D7%A8%20%D7%91%D7%A8%D7%96%D7%99%D7%A0%D7%94%20%D7%95%D7%93%D7%A8%20%D7%90%D7%91%D7%A8%D7%9E%D7%95%D7%91%D7%99%D7%A5-20191027/%D7%A4%D7%A8%D7%A74.pdf"
+               }, {
+                  "date_added": "13221426443720162",
+                  "date_last_used": "0",
+                  "guid": "49172229-3bbd-4f77-97f8-010ac01bcc06",
+                  "id": "14",
+                  "name": "תשובות05.pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/ohayo/Desktop/%D7%A1%D7%9E%D7%A1%D7%98%D7%A8%20%D7%90/%D7%97%D7%93%D7%95%D7%901/%D7%97%D7%95%D7%91%D7%A8%D7%AA%20%D7%AA%D7%A8%D7%92%D7%99%D7%9C%D7%99%D7%9D%20%D7%A9%D7%9C%20%D7%93%D7%A8%20%D7%91%D7%A8%D7%96%D7%99%D7%A0%D7%94%20%D7%95%D7%93%D7%A8%20%D7%90%D7%91%D7%A8%D7%9E%D7%95%D7%91%D7%99%D7%A5-20191027/%D7%AA%D7%A9%D7%95%D7%91%D7%95%D7%AA%20%D7%9C%D7%97%D7%95%D7%91%D7%A8%D7%AA%20%D7%94%D7%AA%D7%A8%D7%92%D7%99%D7%9C%D7%99%D7%9D%20%D7%A9%D7%9C%20%D7%93%D7%A8%20%D7%9E%D7%A8%D7%99%D7%9D%20%D7%91%D7%A8%D7%96%D7%99%D7%A0%D7%94%20%D7%95%D7%93%D7%A8%20%D7%91%D7%95%D7%9E%D7%94%20%D7%90%D7%91%D7%A8%D7%9E%D7%95%D7%91%D7%99%D7%A5-20191027/%D7%AA%D7%A9%D7%95%D7%91%D7%95%D7%AA05.pdf"
+               } ],
+               "date_added": "13243941461702291",
+               "date_last_used": "0",
+               "date_modified": "13243941461702291",
+               "guid": "4c7fbeec-1c48-4cd9-8d7f-18a5182e6b51",
+               "id": "12",
+               "name": "קבוצה 2",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13224588771396127",
+                  "date_last_used": "0",
+                  "guid": "e792b87a-820a-49a3-860b-0804c7673da8",
+                  "id": "16",
+                  "name": "תרגילים מפיאנה.pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/ohayo/Desktop/%D7%A1%D7%9E%D7%A1%D7%98%D7%A8%20%D7%90/%D7%97%D7%93%D7%95%D7%901/%D7%9E%D7%91%D7%97%D7%A0%D7%99%D7%9D/2019/%D7%9C%D7%A2%D7%A9%D7%95%D7%AA/%D7%AA%D7%A8%D7%92%D7%99%D7%9C%D7%99%D7%9D%20%D7%9E%D7%A4%D7%99%D7%90%D7%A0%D7%94.pdf"
+               } ],
+               "date_added": "13243941461702696",
+               "date_last_used": "0",
+               "date_modified": "13243941461702696",
+               "guid": "0308ce61-81c6-45c0-a586-39f5d708e973",
+               "id": "15",
+               "name": "קבוצה 3",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13237403751812663",
+                  "date_last_used": "0",
+                  "guid": "dafbb697-ecc6-44e9-822a-5bd5f8cd7a14",
+                  "id": "18",
+                  "name": "10 אינטגרל משולש.pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/ohayo/Desktop/%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D/%D7%A1%D7%9E%D7%A1%D7%98%D7%A8%202/%D7%97%D7%93%D7%95%D7%90%202%20%D7%9E/%D7%A9%D7%91%D7%95%D7%A2%2010/10%20%D7%90%D7%99%D7%A0%D7%98%D7%92%D7%A8%D7%9C%20%D7%9E%D7%A9%D7%95%D7%9C%D7%A9.pdf"
+               }, {
+                  "date_added": "13237403751812663",
+                  "date_last_used": "0",
+                  "guid": "3f3a9d32-ca00-40fe-809b-bf91c1f462fb",
+                  "id": "19",
+                  "name": "12 אינט קווי מסוג 2 (1).pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/ohayo/Desktop/%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D/%D7%A1%D7%9E%D7%A1%D7%98%D7%A8%202/%D7%97%D7%93%D7%95%D7%90%202%20%D7%9E/12%20%D7%90%D7%99%D7%A0%D7%98%20%D7%A7%D7%95%D7%95%D7%99%20%D7%9E%D7%A1%D7%95%D7%92%202%20(1).pdf"
+               }, {
+                  "date_added": "13237403751812663",
+                  "date_last_used": "0",
+                  "guid": "8dd73c37-311e-4836-a308-6abe11a6d13b",
+                  "id": "20",
+                  "name": "9 הגדרת האינטגרל הכפול.pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/ohayo/Desktop/%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D/%D7%A1%D7%9E%D7%A1%D7%98%D7%A8%202/%D7%97%D7%93%D7%95%D7%90%202%20%D7%9E/%D7%A9%D7%91%D7%95%D7%A2%208/9%20%D7%94%D7%92%D7%93%D7%A8%D7%AA%20%D7%94%D7%90%D7%99%D7%A0%D7%98%D7%92%D7%A8%D7%9C%20%D7%94%D7%9B%D7%A4%D7%95%D7%9C.pdf"
+               } ],
+               "date_added": "13243941461702838",
+               "date_last_used": "0",
+               "date_modified": "13243941461702838",
+               "guid": "824b1f98-5663-48a4-aad3-01085462249f",
+               "id": "17",
+               "name": "קבוצה 4",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13237577110019219",
+                  "date_last_used": "0",
+                  "guid": "b9c13385-cbe3-4d65-be8e-b07c3800be99",
+                  "id": "22",
+                  "name": "12 אינט קווי מסוג 2 (1).pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/ohayo/Desktop/%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D/%D7%A1%D7%9E%D7%A1%D7%98%D7%A8%202/%D7%97%D7%93%D7%95%D7%90%202%20%D7%9E/12%20%D7%90%D7%99%D7%A0%D7%98%20%D7%A7%D7%95%D7%95%D7%99%20%D7%9E%D7%A1%D7%95%D7%92%202%20(1).pdf"
+               }, {
+                  "date_added": "13237577110019219",
+                  "date_last_used": "0",
+                  "guid": "67c0d91d-4e4b-4df4-8083-fd26a8c12a64",
+                  "id": "23",
+                  "name": "9 הגדרה וחישוב של אינטגרל כפול.pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/ohayo/Desktop/%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D/%D7%A1%D7%9E%D7%A1%D7%98%D7%A8%202/%D7%97%D7%93%D7%95%D7%90%202%20%D7%9E/%D7%A9%D7%91%D7%95%D7%A2%209/9%20%D7%94%D7%92%D7%93%D7%A8%D7%94%20%D7%95%D7%97%D7%99%D7%A9%D7%95%D7%91%20%D7%A9%D7%9C%20%D7%90%D7%99%D7%A0%D7%98%D7%92%D7%A8%D7%9C%20%D7%9B%D7%A4%D7%95%D7%9C.pdf"
+               } ],
+               "date_added": "13243941461703225",
+               "date_last_used": "0",
+               "date_modified": "13243941461703225",
+               "guid": "2807f53c-da63-4f65-8e82-3b3a2dc71a67",
+               "id": "21",
+               "name": "קבוצה 5",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13243941461701355",
+            "date_last_used": "0",
+            "date_modified": "13243941461701355",
+            "guid": "0d62f05c-b1b0-48f3-bc92-4c3431615fac",
+            "id": "9",
+            "name": "כרטיסיות שהשארת בצד",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13326046228142615",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13326046228142617",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCNUR2hOGAQAAKg4QABgBICYoBDAAOABAABIAIAEqGDFleE1oeVEzRG1uOHRDR2QwaVM0Z0E9PaAGDBKnAQgtEqIBChx3YWR1RGo5TlBXa2JkM1oyNnJQaEQ5aUtkNHM9EiQ3MjBhMTgyMS0zYTZmLTQ4MzYtODVmOS1lYjJlYzAzOWRlOWQYACAAKAAww6PonuEwOO2j6J7hMEDto+ie4TBKHDg3cXl6RFc0NXRpcGNzeWhPR3kwMUhtVXZWTT1aHiIcWTZtSXJ5YmYxYWVZRnJmZDg4Z1FXTGI1aHhFPWUAAAAAEqkBCCkSpAEKHG5Jb0hJQlZmLzQ2cm95eXJPM0hNamNnOC8zND0SJDRiOWU2MDRkLThhYTUtNGE0YS04YjQ3LTBiN2JlOTA5M2UxZBgAIAIoAjDa3ais+DA4g6fonuEwQIfNqKz4MEocbTVXN0tkZGxDajYrdXEyNk1VTzVkd2tIY0U0PVogIh7//3k4TVI0TWZoVFloNGl5ajdoVGRIU3JCNHdLOD1l/yT/NxKpAQgmEqQBChxpSlVPZ3dKUlFtcVE3SGFoZW5hMnExWlpNc0U9EiQ4MDllNzQ4My1lZWZlLTQxYzEtYmI2OS0zMmY1YWRjN2QzNGYYACACKAIwzd2orPgwOO+d6J7hMECFzais+DBKHG9ubHJlNXh1bDNEUWxUR3VkaDg3V0F2eTgybz1aICIe//tMemFUTENpcmRDYWJoWUptWkc3TjlqcllmZ0k9Zf8k/zcSpwEILhKiAQocUG0zZjVFU0dGU3FUUkFzb211NnJXajBxWW1ZPRIkMDY4ODZmYzctOTRjZC00YTE2LTk2Y2EtMmYzYmMyZDg5ODRiGAAgACgAMMSj6J7hMDiMpOie4TBAjKTonuEwShxEL2wxejRzSEpFTS9MdncwS3U2VVNmb2tVMnM9Wh4iHGpDQ1RUeW0vZ1ZiZU4rVU45VStCNjk3RWJZYz1lAAAAABKpAQglEqQBChxBYy9FclM0Ky9vQXJVU2dJWXRBK0Q5cTdZQjg9EiRlOGU0NWQ0Ni0zYjdlLTRmMjItOTZiYS1hZmE3NjY4MzJlNzEYACACKAIw192orPgwOJam6J7hMECFzais+DBKHDNnZzVXbkw4WGFnc3B5aGtQVy94YTZNZnBBcz1aICIe//ZJb0xYUFBWeUZCWitIY0lhVUVRT3ZyYUowWXc9Zf8k/zcSqQEIJBKkAQocZHJIZmFnREp2YTR1QWUyeHM0cGpuNWN4dHhZPRIkODJmOWFmMGYtMDVhMy00NmM5LWJlZWUtNTM1Mzg3NzI5OTNhGAAgAigCMNXdqKz4MDiGpuie4TBAg82orPgwShxTbGs0S21lMjdDR1h1NXk4SEI0c28vWnhYUTQ9WiAiHv/sNDFYR29aVFA2TGlHL0hQLzZtQVZwUEVGbWNjPWUQMP/kEqkBCCMSpAEKHDJ2M2FETWVCdE4xN3dWa0pmbjZ6MEZXb2FWZz0SJDJlNTE4OTJiLWI5MzQtNGZkOS1iN2JiLTZiZTYxMjZlMDcwNxgAIAIoAjDU3ais+DA416XonuEwQIPNqKz4MEocUDIvRWhlNCtOcG9rVkFzVkEzdDhLdDNpUmtFPVogIh7/2VNObVJJZDJUVVdXNWRKM1dNWTJkK1FMZVlzVT1lVv3FQxKpAQgiEqQBChw5RUVqN1UwZUxUM2w5bW9HNUZiTENFYms0KzQ9EiRkMmI3MWVmMS00ZjE2LTQwMjMtOWU4ZS1hYzdkNzQyNjNlMjgYACACKAIw0t2orPgwONSm6J7hMECCzais+DBKHDUrZWQzbU5oTEdXSzdTZ1VDbmRWM29JVVljZz1aICIe/7NFc3M2YTJ6ZXN5K0NYZTVqREdrak0wSmdQSlk9ZUMxCkwSqgEIKhKlAQocaThhNzlSZTV2bTdycFFaTldmcEhKSDR6aVFRPRIkMTE2ZTQyYTUtOTU2My00NjVhLTk4MDMtNTI1Nzg5NTIwOTQ5GAAgAigCMNHdqKz4MDiyp+ie4TBAh82orPgwShx1eGdxTWMrQ0VGS1RFaUluK0FGeXVTUkZNVDQ9WiEiH///vHA1TmZ3bzNqUkdOS1YxODREU3hYTk9EMHo4VT1l/yT/NxKoAQggEqMBChwyWTA4T0xHNHdhbVVJTkFkSUQ2NDVVSkg3cjQ9EiRjNGU3OWM0MC0zM2NiLTRiZjQtOWIxZC03YjcwNjkxZjZmZTkYACACKAIw2N2orPgwOLil6J7hMECCzais+DBKHCtJRlZnR1c1dEY0bTlteGxmc0xyQndic1c2ST1aHyId/zRSUEVCcDJyVU5RblZJZkdoZGFQMzUvc2cxMD1lp2bjlBKoAQgdEqMBChxBajV5ZjFqeDg1Y3AvQjljSmZhYTZrMU1BZXc9EiQ4YzMxZjI1YS0yZjcyLTQ5YWMtOWIwMS05ZTIyNDczZTNkZDgYACACKAIwy92orPgwOPmk6J7hMED7zKis+DBKHDlKZmJiUDg3U2lEYzBUVjR4TTdmbFVXU2JmUT1aHyId+3ovSUFIWmhWRkQ0RW9wYjhxckRWVS92citRND1lsQkv0RKoAQgbEqMBChxpMFV0TTlSQitiSkl0MEhzWFEydnpEVzZDTEE9EiRmMmYwZjkwZi1hZGNhLTQ1OWItYmRhOS1kYWNmOGIzN2UzNWMYACACKAIwzt2orPgwOJml6J7hMED6zKis+DBKHHRJWWMxazV5NmI5L1htRUU2a21iL0tRRVl6ST1aHyId7mtDQlhTYVVRbURxclNRLzRXWUE1R3FNVmFKYz1lOP122xKoAQgeEqMBChxUS2VGR2c0UkhqZFpVcWw4K2V6RVQyUEpmK1E9EiRkM2RiMDQ4My1mNjNlLTRhYjktYmE4MC1mN2Q2YzhkMDZhOTEYACACKAIwyt2orPgwOOSm6J7hMED8zKis+DBKHEZZVituR3MweFdkcCtyTkpOejBIVWl3Uk5UYz1aHyId/URIWDF4a2lXU1dkbkM2T280UFlSNGppSWZtST1lihjyShKoAQgZEqMBChxWVWJMVUpqenZRSVdNRTFUSTBMdVVtcDNVdEE9EiRjMDBkNjU4My1lODM3LTRlODgtOWJmNy1hYjBhZGUwMGM5YWMYACACKAIw0N2orPgwONqk6J7hMED5zKis+DBKHFRYc2VIcGlvblFBZmpIcW5rbG0vcmxTenY3bz1aHyIdu0lsNzBmQ2ZVWHhwZWh6Y0Z5NjYvelVzSEx4WT1l5hLwEBKoAQgaEqMBChxNek4ydzBxRFZDTmJHMGlMUXIzaWxNWXd0Vzg9EiQ2MTJiZDVjYS1iNmE5LTQ4NjAtOGQyZS1lOTNhNDgzYjRhOTMYACACKAIwyd2orPgwOLuk6J7hMED5zKis+DBKHHg3VzNoejEvaE8rQjQyaFhJbU9ncm96cnpUOD1aHyId3TBTRHlEWXU0emRGMExxL1J5WnBKUDhkT1ZEYz1lxJF2xRKnAQgOEqIBChxjN0p5OFc4dkZmOCs5WTVHQ1dFNGordHpSODQ9EiQ0OTE3MjIyOS0zYmJkLTRmNzctOTdmOC0wMTBhYzAxYmNjMDYYACAAKAAw/ZjonuEwOLaa6J7hMEC2muie4TBKHDhMeVp1QkZsT0FMVit2R0FuOEhzY3Q5bE1VYz1aHiIcaUNSZEFwdTgwa3BKYWdEZklsbHdJOVhYVExJPWV3cGyjEqcBCBgSogEKHHV3RndXeHRzZ2lUdlp0L0R1T21XamtXWm80QT0SJDllMGMxOWYwLTdiZDMtNDlhZC04YWYxLWRjMWYwMjEzMjBlNxgAIAIoAjDZ3ais+DA4wJ3onuEwQPjMqKz4MEocc0ptM3dQYnVpUkE0RDlseVdubXhzZEtjRGZrPVoeIhx2SXhNc2paenl0aE80bjNDZEdRd3F4NnVYYWs9ZbnjKRgSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMmRiNDg2YTMtYjA0MC01NTg4LTk4YTItOGE2NmNkOWE1ODVhGAAgACgAMPP9557hMDihguie4TBAoYLonuEwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKoAQgUEqMBChxHaVNFYkczZnFSQVdBRUYwVjA1QmJqUlZtak09EiQ4ZGQ3M2MzNy0zMTFlLTQ4MzYtYTMwOC02YWJlMTFhNmQxM2IYACAAKAAwg5nonuEwOKSc6J7hMECknOie4TBKHHl4THVxREFoTDJlTWlZaklmN3pudERCZWYvST1aHyId3XVESmdGeWZXc2NmbUluMXRyQm9wUDZaQ2lyMD1ld3BsoxKpAQgoEqQBChxjUWNrbWhNbDJhazhqNlFUV1ZiNjdjWnk2aWc9EiQ5OTJkZjc0MC1lYjVjLTQ4NTEtYWU5Yi1kZDc3ZWEzMTQxYWIYACACKAIwzN2orPgwOLWm6J7hMECGzais+DBKHGhGZWtBK3h6RTVtTmtxeExBTlhkVmoxNElyRT1aICIe//5YUFhqdXdiNlpOMUU5L3BqUmpORE5rK3NCeDA9ZTj9dtsSqAEIIRKjAQocZHlKR2ZkK2tYK2dDK25EQnNSZDVBSG50SDRRPRIkYjYzZjFjNDUtZDI1MC00NWY4LTk3NzItNWIwMmQxYmE0MDdiGAAgACgAMIqZ6J7hMDjQneie4TBA0J3onuEwShwwZVh0RG16M0VydFF2SWtqTEkwbkhtY0VwdW89Wh8iHf9mNzJBSmZPdHdKam5ZY0k0bU5hUmdGeHhsTlU9ZQAAAAASqAEIHBKjAQocMVVyL3U5STFvTFptdGJaV1NLSHppcHV2cERFPRIkOGI1NmJmYzUtZGY4Zi00OWFiLWJlOTItZDg3YmE3NWIwNzg4GAAgAigCMNbdqKz4MDihneie4TBA+syorPgwShwzOW4zMm9qZWVuSmNQcXg5K1pyMDlxeHpObWc9Wh8iHfdQRGJTSTFZbTlaNy9iN0RkVHQ2QkxkS05MM0E9Zadm45QSqAEIExKjAQocMWZnK0xMQ1ZtamlSQmp1RndtZStVVTJCMUFVPRIkM2YzYTlkMzItY2EwMC00MGZlLTgwOWItYmY5MWMxZjQ2MmZiGAAgACgAMIKZ6J7hMDi3m+ie4TBAt5vonuEwShwvcGxYQXlucW1FN01oRS96YWp4ZVRVZ3JER1k9Wh8iHbtydGVyaTk1T1NwdXV2cG9NaXozdDBHRmg4dzA9ZXdwbKMSqAEIFxKjAQocUWEyc0U5RXNXWFZlVSt0M0pBWWM0L3I2L1RjPRIkNjdjMGQ5MWQtNGU0Yi00ZGY0LTgwODMtZmQyNmE4YzEyYTY0GAAgACgAMIaZ6J7hMDjynOie4TBA8pzonuEwShxzc090RndZZm9HSVNxZTBqTTdZZ0E5OWY3Rnc9Wh8iHa1MczFERG1BQlNCUHBCWTFnU1ozdFQvSnlmelk9ZXdwbKMSpwEIEhKiAQocQU0zeERsNlZjd3dWaWowblJHaDRXcTRTdGhvPRIkZGFmYmI2OTctZWNjNi00NGU5LTgyMmEtNWJkNWY4Y2Q3YTE0GAAgACgAMIGZ6J7hMDiYm+ie4TBAmJvonuEwShx2cHBhVUtKWDZySGVweTR3eW1oVHdicXQ4T1k9Wh4iHHZvcFlWejhoSFZpRFVrS3ByM2RVeUtwSTdFTT1ld3BsoxKqAQgvEqUBChx1WUZlTXc4RG45SnlEdlkzR1c4cEVBZVlLWlE9EiRhNjI1Nzg1ZC05YTRkLTQxOTgtYTUwOS0zYzNiNGFmYzUzOGUYACAAKAAw06PonuEwOJOn6J7hMECTp+ie4TBKHEJ5cTNPUFdFcEtHT2ZhcEt3UDNUMk1GY2dsbz1aISIf///3K2p2TEZjUU4zWjVIUVlNeENyMnk4NXNyeXZnPWUo0OGpEqcBCBASogEKHE9GQVJob3BMN09IMFZwOGp3ZjVDWFVTZlRPUT0SJGU3OTJiODdhLTgyMGEtNDlhMy04NjBiLTA4MDRjNzY3M2RhOBgAIAAoADD/mOie4TA46ZronuEwQOma6J7hMEocaW1pNCtqUkUyVmdmWmJySXVmTzlxS2tPdjVvPVoeIhxScWVGU0cxWXJBZHJDZEZuWXlYYTFIUy8yMWc9ZXdwbKMSqgEIKxKlAQocdVBXVWRxZzQzL0xLYUpGdnllbVFrQmRaWWZzPRIkODA2YWQ2OGYtM2I2Ni00ZDRmLTgyN2ItMWE2ZTdlMzc0YjI3GAAgAigCMM/dqKz4MDirpOie4TBAiM2orPgwShwzQ3c5MjFzYlZqOE9XaHBzS0JhTFdxNk9QRWs9WiEiH///3ms1ZG0rLzBJMm16SzdBQStWWWwzTmpRU2VFcz1leVBlLhKnAQgMEqIBChxrR3JCVGFLUVhzYm9KSVk3Zi82ODNNTS9lbXc9EiQ0YzdmYmVlYy0xYzQ4LTRjZDktOGQ3Zi0xOGE1MTgyZTZiNTEYACAAKAAw+5jonuEwOIea6J7hMECHmuie4TBKHDNmaUVLRk5uVFpNdTA5ZmdRM3pqMlNLd0w1VT1aHiIcdXhEMExJZVRPcmFXcloyakRTYkNnbHlITmEwPWUAAAAAEqgBCBESowEKHGwzVktvSm53ZVRnM0lINHRIR0VaSEQ5UDdBTT0SJDgyNGIxZjk4LTU2NjMtNDhhNC1hYWQzLTAxMDg1NDYyMjQ5ZhgAIAAoADCAmeie4TA4iJvonuEwQIib6J7hMEocQ3k5dFFpaHpHTkpPVWVLL3Y2SWEyZEUyMXUwPVofIh3dVEc4TmJMRVNkc2VIU2hmQmZEU09VemRTMjNzPWUAAAAAEqgBCA8SowEKHE1zRlRMMU9seUtKWFpwSHFDanhOWSs4RUFGaz0SJDAzMDhjZTYxLTgxYzYtNDVjMC1hNTg2LTM5ZjVkNzA4ZTk3MxgAIAAoADD+mOie4TA41pronuEwQNaa6J7hMEocUGJFTVNFSE9HNmZiM01tTGdTSERmTzdXVkxVPVofIh26UmxURlhCQ0dWY3NFZ3QxK0E3ZHFjU2tOMmdFPWUAAAAAEqgBCB8SowEKHG1KZms0VERkQ1hnM0RFdGszUVF2RHowbVNnZz0SJDQ3ZDE1MmU5LTZjYWMtNGNhYS1hZTllLTM5YmZlOTRlNTNmZhgAIAIoAjDT3ais+DA4kp3onuEwQIDNqKz4MEocdkdXeHBqSVhRdEc5dnc5YnU4dEpUdkhLd1hvPVofIh3+R21kS1U1UVVjRnFhVXVWL0pDTXJ2SnpDWUxZPWV5UGUuEqcBCA0SogEKHGJWMmV3d3VxWG1pOG1vcDFGQzFqc1JBWlZrQT0SJDMzZTcyOGZhLWNkZTItNGI5NS1iNTYwLWI5MmViMjI2ZGVjYhgAIAAoADD8mOie4TA4ppronuEwQKaa6J7hMEocYXJkQ1RWTVlEMVM3WFJvQXk2MVliUmdpRTBZPVoeIhwvNW1SaVZPb1FhN3ZBL0tZVERRRFlIbjhDOGM9ZXdwbKMSpwEICRKiAQocVnF4VDJ0Nmxrd1dwaWEzNEU1S2hTMXlMSVJFPRIkMGQ2MmYwNWMtYjFiMC00OGYzLWJjOTItNGMzNDMxNjE1ZmFjGAAgACgAMPiY6J7hMDiKmeie4TBAipnonuEwShxhQVdMSFBwQzgra0VtcmVLUTVNNDFMZ1MvQlk9Wh4iHCsrekRwekQwR2tSY3RYSG0wR3JjTkxQS0xZWT1lAAAAABKqAQgsEqUBChxFYnhjRDRrZm96cnNGYU4vMGh5UVlqanBwQXM9EiQ3MGM3OWY1NS01NzU1LTRlODMtYjM0Ni1kZTkzODJlZjc2NjAYACAAKAAwwqPonuEwON2j6J7hMEDdo+ie4TBKHGEvRmtucmkrczVuVGN0QWx0dUZtNFRBU2VvQT1aISIf///vUS9EYnUwdmxUQVlHbHRwK1lPbkZTb2VZS1VFPWUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDFkNTY2MGE4LWY3MTktNTk0MS04NjJhLTBhNTg2YzZlMmY4ORgAIAAoADD0/eee4TA4sYLonuEwQLGC6J7hMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASpwEIFhKiAQocL1FoemRpcExqeDc2Slk3TXp5RVRmUEFBeFpnPRIkYjljMTMzODUtY2JlMy00ZDY1LWJlOGUtYjA3YzM4MDBiZTk5GAAgACgAMIWZ6J7hMDjTnOie4TBA05zonuEwShwwQkJVVUd4Q1lGRndUTjVKKzl6YmgxSWxNNWs9Wh4iHFpTVFlSdzVldnZJRTBzYUxRcERINUllc1BEZz1ld3BsoxKpAQgnEqQBChxHQlBTQ3BEUTF1S292cUpDc3Vua0d0aDNMTmc9EiQzNjBlZGY0Ni1jZDg3LTRkYWEtOWMzNS05NGZmZDQwMTlhZTgYACACKAIwyN2orPgwOPal6J7hMECGzais+DBKHGlNUFo5anVqdEsyUXpDa05TWmRzUEt4VU9IMD1aICIe//1HbGNDaGJXekxGUk9BRXptcUk2ZGhsM3NGSTQ9ZTj9dtsSpwEIChKiAQocRUZDYXNGYmJrZFFDazJpRXRYNTFTLzBtZXJZPRIkNTc4NzAyZGEtZjY1Zi00YzYyLWE4NWItYWM0YzdlZGY0YmM5GAAgACgAMPmY6J7hMDipmeie4TBAqZnonuEwShxRWm9CV2xqdU1EbU8xYzU0cGw4T1Bob1pOdFE9Wh4iHHNVMWNpVnVwZTRtcU5jeEJld2Jxak9QNWYwVT1lAAAAABKoAQgVEqMBChwzREdIdWMyN1g2R3lBckNpSU9RRFpVbUpvOU09EiQyODA3ZjUzYy1kYTYzLTRmNjUtOGU4Mi0zYjNhMmRjNzFhNjcYACAAKAAwhJnonuEwOMSc6J7hMEDEnOie4TBKHEQrZGUxakdoZDY5SzFzdElXZ0NpcVhkd01TST1aHyId7lhEeG9oaUdGblRoT1IwRXZydHgzdko5VVhrbz1lAAAAABKnAQgLEqIBChxGOU9kQTcxdTdEamRyck1PTDNJMWdsUVQzbGc9EiRkM2VjNWZhOS1hNzE3LTQ4ODYtYWMxNS1lN2EyNzQ5YmQ4MzYYACAAKAAw+pjonuEwOMiZ6J7hMEDImeie4TBKHFVnZWJpS3B4dE51a3h0MzJMSkRiRGJlT3Jraz1aHiIcbGtla2lWV0FSeU9yK1IxK0ZCOG1UOXBjV0pBPWUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGMzNDQzMGNlLWRkOWYtNTE0My1hMmI2LTY1ODEwMzc3NzBhMhgAIAAoADD5/eee4TA4vYPonuEwQL2D6J7hMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}
