@@ -1,8 +1,6 @@
 # IMPORT SYSTEM FILES
 import parameters as p
-from preprocess import get_fft_spectrum
-from feature_extraction import get_embedding, get_embeddings_from_list_file
-import ffmpeg
+from feature_extraction import get_embedding
 import argparse
 import scipy.io.wavfile as wavfile
 import traceback as tb
@@ -65,38 +63,6 @@ def enroll(name, file):
     try:
         np.save(os.path.join(p.EMBED_LIST_FILE, speaker + ".npy"), enroll_embs)
         print("Succesfully enrolled the user")
-    except:
-        print("Unable to save the user into the database.")
-
-
-def enroll_csv(csv_file):
-    """Enroll a list of users using csv file
-        inputs:  str (Path to comma seperated file for the path to voice & person to enroll)
-        outputs: None"""
-
-    print("Getting the model weights from [{}]".format(p.MODEL_FILE))
-    try:
-        model = load_model(p.MODEL_FILE)
-
-    except:
-        print("Failed to load weights from the weights file, please ensure *.pb file is present in the MODEL_FILE directory")
-        exit()
-    print("Processing enroll samples....")
-    try:
-        enroll_results = get_embeddings_from_list_file(
-            model, csv_file, p.MAX_SEC)
-        enroll_embs = np.array([emb.tolist()
-                               for emb in enroll_results['embedding']])
-        speakers = enroll_results['speaker']
-    except:
-        print("Error processing the input audio files. Make sure the csv file has two columns (path to file,name of the person).")
-
-    i = 0
-    try:
-        for i in range(len(speakers)):
-            np.save(os.path.join(p.EMBED_LIST_FILE, str(
-                speakers[i]) + ".npy"), enroll_embs[i])
-            print("Succesfully enrolled the user")
     except:
         print("Unable to save the user into the database.")
 
@@ -164,14 +130,7 @@ if __name__ == '__main__':
         if task == "enroll" and get_extension(file) != 'csv':
             print("Missing Arguement, -n name is required for the user name")
             exit()
-    if get_extension(file) == 'csv':
-        if task == 'enroll':
-            enroll_csv(file)
-        if task == 'recognize':
-            print(
-                "Recognize arguement cannot process a comma-seperated file. Please specify an auido file")
-    else:
-        if task == 'enroll':
-            enroll(name, file)
-        if task == 'recognize':
-            recognize(file)
+    if task == 'enroll':
+        enroll(name, file)
+    if task == 'recognize':
+        recognize(file)

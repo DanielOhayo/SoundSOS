@@ -124,8 +124,7 @@ exports.recognize = async (req, res, next) => {
 
       pythonProc.stdout.on('data', (data) => {
          console.log(`dani + ${data}`);
-         if (data == `Recognized:  ${email}`) {
-            // if (data.includes(`Recognized:  ${email}`)) {
+         if (data.includes(`Recognized:  ${email}`)) {
             console.log("inside")
             retStatus = true
          }

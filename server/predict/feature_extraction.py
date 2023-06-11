@@ -27,21 +27,15 @@ def buckets(max_time, steptime, frameskip):
             buckets[i] = int(s)
     return buckets
 
+# get_embedding:takes an audio file (wav_file) and a machine learning model (model) as input. It processes the audio file to obtain a spectrum, passes the spectrum through the model, and returns the resulting embedding.
+
 
 def get_embedding(model, wav_file, max_time):
     buckets_var = buckets(p.MAX_SEC, p.BUCKET_STEP, p.FRAME_STEP)
     signal = get_fft_spectrum(wav_file, buckets_var)
-    embedding = np.squeeze(model.predict(signal.reshape(1,*signal.shape,1)))
+    embedding = np.squeeze(model.predict(signal.reshape(1, *signal.shape, 1)))
     return embedding
 
 
 def get_embedding_batch(model, wav_files, max_time):
-    return [ get_embedding(model, wav_file, max_time) for wav_file in wav_files ]
-
-
-def get_embeddings_from_list_file(model, list_file, max_time):
-    buckets_var = buckets(p.MAX_SEC, p.BUCKET_STEP, p.FRAME_STEP)
-    result = pd.read_csv(list_file, delimiter=",")
-    result['features'] = result['filename'].apply(lambda x: get_fft_spectrum(x, buckets_var))
-    result['embedding'] = result['features'].apply(lambda x: np.squeeze(model.predict(x.reshape(1,*x.shape,1))))
-    return result[['filename','speaker','embedding']]
+    return [get_embedding(model, wav_file, max_time) for wav_file in wav_files]
