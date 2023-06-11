@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 application
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml:3:4-33:19
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml:3:4-33:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ohayo\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ohayo\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [com.github.canardoux:flutter_sound_core:8.5.0] C:\Users\ohayo\.gradle\caches\transforms-3\bc70dcf8f9b6880c2f7aeb499b25bbb5\transformed\jetified-flutter_sound_core-8.5.0\AndroidManifest.xml:15:5-34:19
@@ -12,21 +12,21 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\oh
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\ohayo\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:name
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml
 manifest
-ADDED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml:1:1-34:12
-MERGED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml:1:1-34:12
-MERGED from [:shared_preferences_android] C:\Users\ohayo\flutter_dev\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:audioplayers] C:\Users\ohayo\flutter_dev\build\audioplayers\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ohayo\flutter_dev\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:path_provider_android] C:\Users\ohayo\flutter_dev\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:audio_session] C:\Users\ohayo\flutter_dev\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:permission_handler] C:\Users\ohayo\flutter_dev\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:flutter_sound_lite] C:\Users\ohayo\flutter_dev\build\flutter_sound_lite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:shared_preferences_android] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:audioplayers] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\audioplayers\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:audio_session] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_sound_lite] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\flutter_sound_lite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ohayo\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ohayo\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\ohayo\.gradle\caches\transforms-3\29256a88358009f7247298a59ad53331\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
@@ -56,43 +56,43 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ohayo\.gradle\cache
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ohayo\.gradle\caches\transforms-3\282676124ae0776b5645a1cee909808d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ohayo\.gradle\caches\transforms-3\0ba9c48dd5ff84ca64a6f8c4dc29ae01\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ohayo\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:1:1-18:12
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:1:1-18:12
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:1:1-18:12
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:1:1-18:12
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:1:1-18:12
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:1:1-18:12
 	package
-		ADDED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml:2:5-38
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml
+		ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml:1:1-34:12
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml:1:1-34:12
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml
-MERGED from [:shared_preferences_android] C:\Users\ohayo\flutter_dev\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:shared_preferences_android] C:\Users\ohayo\flutter_dev\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:audioplayers] C:\Users\ohayo\flutter_dev\build\audioplayers\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:audioplayers] C:\Users\ohayo\flutter_dev\build\audioplayers\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ohayo\flutter_dev\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ohayo\flutter_dev\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] C:\Users\ohayo\flutter_dev\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] C:\Users\ohayo\flutter_dev\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:audio_session] C:\Users\ohayo\flutter_dev\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:audio_session] C:\Users\ohayo\flutter_dev\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:permission_handler] C:\Users\ohayo\flutter_dev\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:permission_handler] C:\Users\ohayo\flutter_dev\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_sound_lite] C:\Users\ohayo\flutter_dev\build\flutter_sound_lite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_sound_lite] C:\Users\ohayo\flutter_dev\build\flutter_sound_lite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:audioplayers] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\audioplayers\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:audioplayers] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\audioplayers\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_sound_lite] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\flutter_sound_lite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_sound_lite] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\flutter_sound_lite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ohayo\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ohayo\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ohayo\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
@@ -151,56 +151,56 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ohayo\.gradle\ca
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ohayo\.gradle\caches\transforms-3\0ba9c48dd5ff84ca64a6f8c4dc29ae01\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ohayo\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ohayo\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:8:5-66
+ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:8:22-64
+		ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:8:22-64
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:9:5-70
+ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:9:5-70
 	android:name
-		ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:9:22-68
+		ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:9:22-68
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:10:5-76
+ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:10:5-76
 	android:name
-		ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:10:22-74
+		ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:10:22-74
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:11:6-81
+ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:11:6-81
 	android:name
-		ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:11:23-79
+		ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:11:23-79
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:12:6-80
-MERGED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-80
-MERGED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-80
+ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:12:6-80
+MERGED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-80
+MERGED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:12:23-78
+		ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:12:23-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:13:6-80
+ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:13:6-80
 	android:name
-		ADDED from C:\Users\ohayo\flutter_dev\android\app\src\debug\AndroidManifest.xml:13:23-77
+		ADDED from C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\AndroidManifest.xml:13:23-77
 queries
-ADDED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:15
+ADDED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:15
 MERGED from [androidx.media2:media2-session:1.2.0] C:\Users\ohayo\.gradle\caches\transforms-3\401e3fa5aba30c515133839c7436fb83\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:24:5-34:15
 MERGED from [androidx.media2:media2-session:1.2.0] C:\Users\ohayo\.gradle\caches\transforms-3\401e3fa5aba30c515133839c7436fb83\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:24:5-34:15
 MERGED from [androidx.media:media:1.4.1] C:\Users\ohayo\.gradle\caches\transforms-3\5e776b2036c73d73db0c316ecc027c07\transformed\media-1.4.1\AndroidManifest.xml:24:5-28:15
 MERGED from [androidx.media:media:1.4.1] C:\Users\ohayo\.gradle\caches\transforms-3\5e776b2036c73d73db0c316ecc027c07\transformed\media-1.4.1\AndroidManifest.xml:24:5-28:15
 intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
-ADDED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:18
+ADDED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:18
 action#android.intent.action.GET_CONTENT
-ADDED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-72
+ADDED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-72
 	android:name
-		ADDED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:21-69
+		ADDED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:21-69
 data
-ADDED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-44
+ADDED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-44
 	android:mimeType
-		ADDED from [:file_picker] C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:19-41
+		ADDED from [:file_picker] C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:19-41
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ohayo\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 	android:required

@@ -9,19 +9,19 @@ com.example.flutter_dev.app-jetified-flutter_sound_core-8.5.0-7 C:\Users\ohayo\.
 com.example.flutter_dev.app-jetified-media2-common-1.2.0-8 C:\Users\ohayo\.gradle\caches\transforms-3\bc79aa2fbec4351d57620ed2eda3b807\transformed\jetified-media2-common-1.2.0\res
 com.example.flutter_dev.app-jetified-window-1.0.0-beta04-9 C:\Users\ohayo\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
 com.example.flutter_dev.app-appcompat-1.2.0-10 C:\Users\ohayo\.gradle\caches\transforms-3\e937b68345cad7d61818d312b6b4c7ca\transformed\appcompat-1.2.0\res
-com.example.flutter_dev.app-debug-11 C:\Users\ohayo\flutter_dev\android\app\src\debug\res
-com.example.flutter_dev.app-main-12 C:\Users\ohayo\flutter_dev\android\app\src\main\res
-com.example.flutter_dev.app-pngs-13 C:\Users\ohayo\flutter_dev\build\app\generated\res\pngs\debug
-com.example.flutter_dev.app-resValues-14 C:\Users\ohayo\flutter_dev\build\app\generated\res\resValues\debug
-com.example.flutter_dev.app-rs-15 C:\Users\ohayo\flutter_dev\build\app\generated\res\rs\debug
-com.example.flutter_dev.app-mergeDebugResources-16 C:\Users\ohayo\flutter_dev\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.example.flutter_dev.app-mergeDebugResources-17 C:\Users\ohayo\flutter_dev\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.example.flutter_dev.app-merged_res-18 C:\Users\ohayo\flutter_dev\build\app\intermediates\merged_res\debug
-com.example.flutter_dev.app-packaged_res-19 C:\Users\ohayo\flutter_dev\build\audio_session\intermediates\packaged_res\debug
-com.example.flutter_dev.app-packaged_res-20 C:\Users\ohayo\flutter_dev\build\audioplayers\intermediates\packaged_res\debug
-com.example.flutter_dev.app-packaged_res-21 C:\Users\ohayo\flutter_dev\build\file_picker\intermediates\packaged_res\debug
-com.example.flutter_dev.app-packaged_res-22 C:\Users\ohayo\flutter_dev\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
-com.example.flutter_dev.app-packaged_res-23 C:\Users\ohayo\flutter_dev\build\flutter_sound_lite\intermediates\packaged_res\debug
-com.example.flutter_dev.app-packaged_res-24 C:\Users\ohayo\flutter_dev\build\path_provider_android\intermediates\packaged_res\debug
-com.example.flutter_dev.app-packaged_res-25 C:\Users\ohayo\flutter_dev\build\permission_handler\intermediates\packaged_res\debug
-com.example.flutter_dev.app-packaged_res-26 C:\Users\ohayo\flutter_dev\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.flutter_dev.app-debug-11 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\debug\res
+com.example.flutter_dev.app-main-12 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\android\app\src\main\res
+com.example.flutter_dev.app-pngs-13 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\app\generated\res\pngs\debug
+com.example.flutter_dev.app-resValues-14 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\app\generated\res\resValues\debug
+com.example.flutter_dev.app-rs-15 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\app\generated\res\rs\debug
+com.example.flutter_dev.app-mergeDebugResources-16 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_dev.app-mergeDebugResources-17 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_dev.app-merged_res-18 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\app\intermediates\merged_res\debug
+com.example.flutter_dev.app-packaged_res-19 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\audio_session\intermediates\packaged_res\debug
+com.example.flutter_dev.app-packaged_res-20 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\audioplayers\intermediates\packaged_res\debug
+com.example.flutter_dev.app-packaged_res-21 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\file_picker\intermediates\packaged_res\debug
+com.example.flutter_dev.app-packaged_res-22 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.flutter_dev.app-packaged_res-23 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\flutter_sound_lite\intermediates\packaged_res\debug
+com.example.flutter_dev.app-packaged_res-24 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\path_provider_android\intermediates\packaged_res\debug
+com.example.flutter_dev.app-packaged_res-25 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\permission_handler\intermediates\packaged_res\debug
+com.example.flutter_dev.app-packaged_res-26 C:\Users\ohayo\Desktop\Folders\Study\Semester 8\SoundSOS\client\build\shared_preferences_android\intermediates\packaged_res\debug
