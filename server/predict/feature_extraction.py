@@ -35,7 +35,3 @@ def get_embedding(model, wav_file, max_time):
     signal = get_fft_spectrum(wav_file, buckets_var)
     embedding = np.squeeze(model.predict(signal.reshape(1, *signal.shape, 1)))
     return embedding
-
-
-def get_embedding_batch(model, wav_files, max_time):
-    return [get_embedding(model, wav_file, max_time) for wav_file in wav_files]
