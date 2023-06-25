@@ -34,4 +34,10 @@ def get_embedding(model, wav_file, max_time):
     buckets_var = buckets(p.MAX_SEC, p.BUCKET_STEP, p.FRAME_STEP)
     signal = get_fft_spectrum(wav_file, buckets_var)
     embedding = np.squeeze(model.predict(signal.reshape(1, *signal.shape, 1)))
+    print("dani check")
+    print(model.predict(signal.reshape(1, *signal.shape, 1)))
+    print("dani size")
+
+    print((model.predict(signal.reshape(1, *signal.shape, 1))).size)
+
     return embedding
